@@ -7,7 +7,7 @@
 
 
   <a href="https://github.com/liviaFeittosa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liviaFeittosa&show_icons=true&theme=dracula"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liviaFeittosa&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
   </a>
 
 
