@@ -1,12 +1,15 @@
 ## Olá! Eu sou a Lívia Soares Feitosa
 
-- 💻 Hoje sou estágiaria em técnologia da informação
-- 💡 Estudando Front-end (HTML,CSS e JavaScript)
+- 💻 Hoje estou em busca de uma oportunidade na área de estágio em programação
+- 💡 Graduanda em Ánalise e Desenvolvimento de Sistemas e Sistemas para Internet
+- 📖 Futura desenvolvedora FullStack
 - 😄 Pronomes: Ela/Dela
 
-<a href="https://github.com/liviaFeittosa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LiviaFeittosa&theme=nightowl&include_all_commits-true&count_private-true"/>
-</a>
+
+  <a href="https://github.com/liviaFeittosa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liviaFeittosa&show_icons=true&theme=dracula"/>
+  </a>
+
 
 
 <div style="display: inline_block"><br>
@@ -20,6 +23,6 @@
 <div> 
   <a href="https://instagram.com/__soareslivia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "soareslivia2910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/l%C3%ADvia-soares-645560204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/liviasoarestech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
